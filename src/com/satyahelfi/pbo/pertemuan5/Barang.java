@@ -1,7 +1,7 @@
 package com.satyahelfi.pbo.pertemuan5;
 
 public class Barang {
-    //Attribute
+    //Attributesss
     String nama;
     int harga;
 
